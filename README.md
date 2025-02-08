@@ -1,3 +1,6 @@
+
+<img width="1159" alt="Screenshot 2025-02-09 at 03 34 33" src="https://github.com/user-attachments/assets/d5c35827-cf2c-4d03-8504-65ad6e5f6f58" />
+
 ## Tabs - React Fundamental Project 6
 
 This project is a React application that displays job information fetched from an external API. Users can navigate through different jobs using buttons, and the application dynamically updates the displayed job details.
