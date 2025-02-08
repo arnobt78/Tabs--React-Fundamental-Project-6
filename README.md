@@ -5,7 +5,7 @@
 
 This project is a React application that displays job information fetched from an external API. Users can navigate through different jobs using buttons, and the application dynamically updates the displayed job details.
 
-**Online Live:**
+**Online Live:** https://tabs-arnob.netlify.app/
 
 ## Setup
 
